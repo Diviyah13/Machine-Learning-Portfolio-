@@ -1,4 +1,3 @@
-# Machine-Learning-Portfolio
 # Machine Learning & Deep Learning Portfolio
 
 This repository contains projects completed as part of my Master's in Business Analytics (Advanced AI module).
